@@ -6,4 +6,4 @@
     git add .
     git commit -m ""
     以上 == git commiy -am""
-    
+jfhgfjhg   
